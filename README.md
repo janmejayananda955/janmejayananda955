@@ -4,13 +4,11 @@
 ---
 
 ## 💫 About Me
-
-🔭 I’m currently working on a **Hospital Management System** using **Java** and **Angular**  
+ 
 👯 I’m looking to collaborate on **Java-based full-stack projects**  
-🤝 I’m looking for help with **mastering Angular and advanced Java concepts**  
-🌱 I’m currently learning **Data Structures & Algorithms**, **Java Multithreading**, and **Angular (latest version)**  
+🤝 I’m looking for help with **mastering advanced Java concepts**  
+🌱 I’m currently learning **Data Structures & Algorithms**, **Java Multithreading**
 💬 Ask me about **Java, Web Development, and how to stay consistent as a student-dev**  
-⚡ Fun fact: I love anime—currently watching **Hunter x Hunter**! 🎯
 
 ---
 
