@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm Janmejaya Nanda</h1>
-<p align="center">🧑‍💻 MCA Student | Java & Angular Dev | Anime Enthusiast</p>
+<p align="center">🧑‍💻 MCA Student | Java & React Dev | Anime Enthusiast</p>
 
 ---
 
