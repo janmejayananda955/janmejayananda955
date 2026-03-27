@@ -44,11 +44,28 @@ public class Janmejaya extends Developer {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janmejayananda955)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_janmejaya_09)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1BCjTQtgHd/)
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Janmejaya-Nanda)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janmejayananda955@gmail.com)
+<a href="https://www.linkedin.com/in/janmejayananda955">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/_janmejaya_09">
+  <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.facebook.com/share/1BCjTQtgHd/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="45"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://codepen.io/Janmejaya-Nanda">
+  <img src="https://skillicons.dev/icons?i=codepen" height="45"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:janmejayananda955@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
 
 </div>
 
