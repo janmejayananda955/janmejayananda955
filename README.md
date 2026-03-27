@@ -96,7 +96,7 @@ public class Janmejaya extends Developer {
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=janmejayananda955&theme=discord&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=janmejayananda955&theme=discord&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 ---
