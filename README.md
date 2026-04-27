@@ -99,7 +99,7 @@ public class Janmejaya extends Developer {
 <img src="https://skillicons.dev/icons?i=spring,react,bootstrap,tailwind" />
 
 ### 🧰 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,antigravity,postman,docker,mysql,postgresql" />
 
 </div>
 
