@@ -96,10 +96,10 @@ public class Janmejaya extends Developer {
 <img src="https://skillicons.dev/icons?i=java,js,python,c,html,css" />
 
 ### ⚛️ Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=spring,react,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=spring,react,bootstrap,tailwind, express" />
 
 ### 🧰 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker,mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker,mysql,postgresql,mongodb" />
 
 </div>
 
